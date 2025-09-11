@@ -1,2 +1,2 @@
-text = "Hello, Git"
+text = "Hello, Git!"
 print(f"{text}")
